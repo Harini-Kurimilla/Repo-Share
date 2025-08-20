@@ -57,7 +57,7 @@ Repo Share is a collaborative platform that allows developers to create, manage,
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/repo-share.git
+   git clone https://github.com/Harini-Kurimilla/repo-share.git
    cd repo-share
    ```
 
